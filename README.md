@@ -1,7 +1,7 @@
 # Fuck Every Company
  Fuck every company in the world, at lease the top 2000 ones from Forbes list. Made with ❤️ by @pribaqnet
 
-![](img/tuit.png)
+![](img/tuit.PNG)
 
 ## Installation:
 ```
